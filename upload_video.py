@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/lib/python3.8
 
 import httplib
 import httplib2
